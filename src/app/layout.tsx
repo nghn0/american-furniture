@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   title: "American Furniture | Premium Furniture Store in Montgomery, AL",
   description:
     "Discover stylish, high-quality furniture at American Furniture in Montgomery, AL. Modern, contemporary & traditional pieces at reasonable prices. Visit us today!",
+  metadataBase: new URL("https://nghn0.github.io/american-furniture"),
 }
 
 export default function RootLayout({
